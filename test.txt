@@ -1,2 +1,12 @@
 Hello
 test
+function test()
+{
+	echo 123;
+	echo 123123123123;
+	echo 123123123123;
+	echo 123123123123;
+	echo 123123123123;
+	echo 123123123123;
+	echo 123123123123;
+}
